@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  appHitungSegitiga
 //
-//  Created by Gery Ruslandi on 24/10/23.
+//  Created by Rahman on 24/10/23.
 //
 
 import UIKit
